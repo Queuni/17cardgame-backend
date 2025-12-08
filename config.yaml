@@ -1,0 +1,46 @@
+# config
+
+
+# Remove the deprecated wrapper and use the library API directly
+
+# Implement proper backoff with jitter for the retry logic
+
+# Remove the temporary debug endpoint before the release
+
+# Remove redundant check that was already covered by the validator
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Adjust the queue size to prevent drops under burst traffic
+
+# Update README with installation steps and environment variable documentation
+
+# Update the example config with all available options and comments
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Simplify the dependency injection so it's easier to mock in tests
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
+
+# Handle timeout gracefully and return a clear error to the caller
+
+# Update the license file and add the new third-party notices
+
+# Clean up the formatting and run the linter on the changed files
+
+# Remove hardcoded credentials and move to env-based configuration
+
+# Remove hardcoded credentials and move to env-based configuration
+
+# Clean up leftover code from the previous implementation
+
+# Simplify error messages so they are actionable for the end user
+
+# Support environment-specific overrides via separate config files
+
+# Clean up the deprecated alias and point callers to the new name
+
+# Improve test coverage for the helpers module to above 90%
+
+# Improve the default config so it works out of the box for dev
