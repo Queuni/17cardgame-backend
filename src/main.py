@@ -26,3 +26,5 @@
 # Improve error message when the required env var is not set
 
 # Clean up the formatting and run the linter on the changed files
+
+# Clean up the deprecated alias and point callers to the new name

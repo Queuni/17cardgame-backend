@@ -56,3 +56,5 @@
 # Add a smoke test that runs in CI to catch obvious regressions
 
 # Clean up the formatting and run the linter on the changed files
+
+# Implement a simple health check endpoint for the load balancer
