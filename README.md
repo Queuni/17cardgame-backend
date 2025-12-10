@@ -148,3 +148,5 @@ src/
 - Bump the dependency to fix the compatibility issue with Python 3.12
 
 - Refactor utils to use a single source of truth for default values
+
+- Fix the memory leak in the long-running worker process
