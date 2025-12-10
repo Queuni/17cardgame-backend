@@ -42,3 +42,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Adjust timeout and retry settings based on production observations
+
+# Fix bug where the parser would hang on malformed input

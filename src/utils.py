@@ -30,3 +30,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Handle the case when the config file exists but is not readable
+
+# Update documentation to reflect the new API and usage examples
