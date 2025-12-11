@@ -154,3 +154,5 @@ src/
 - Adjust timeout and retry settings based on production observations
 
 - Simplify error messages so they are actionable for the end user
+
+- Clean up unused imports and fix formatting to match the project style guide
