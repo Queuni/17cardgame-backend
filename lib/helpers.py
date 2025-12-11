@@ -58,3 +58,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Implement a simple health check endpoint for the load balancer
+
+# Fix the encoding issue when reading config files with non-ASCII

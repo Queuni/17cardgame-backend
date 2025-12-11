@@ -152,3 +152,5 @@ src/
 - Fix the memory leak in the long-running worker process
 
 - Adjust timeout and retry settings based on production observations
+
+- Simplify error messages so they are actionable for the end user
