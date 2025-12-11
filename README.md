@@ -150,3 +150,5 @@ src/
 - Refactor utils to use a single source of truth for default values
 
 - Fix the memory leak in the long-running worker process
+
+- Adjust timeout and retry settings based on production observations
