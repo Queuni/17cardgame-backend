@@ -156,3 +156,5 @@ src/
 - Simplify error messages so they are actionable for the end user
 
 - Clean up unused imports and fix formatting to match the project style guide
+
+- Adjust default timeout value to prevent premature connection drops

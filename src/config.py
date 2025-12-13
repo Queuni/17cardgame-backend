@@ -44,3 +44,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Fix bug where the parser would hang on malformed input
+
+# Update dependencies and resolve compatibility warning from pytest
