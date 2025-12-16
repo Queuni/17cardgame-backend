@@ -46,3 +46,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Bump version to 1.2.0 and add changelog entry for the new features
