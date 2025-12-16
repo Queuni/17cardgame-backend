@@ -60,3 +60,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Correct the logic that determined whether to use cache or not
