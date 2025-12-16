@@ -39,3 +39,6 @@
 
 ## 2026-01-26
 - Adjust the pool size to match the actual concurrency we need
+
+## 2025-12-16
+- Correct the timestamp format to use ISO 8601 for consistency
