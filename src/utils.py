@@ -34,3 +34,5 @@
 # Update documentation to reflect the new API and usage examples
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Clean up duplicate logic between the sync and async code paths
