@@ -158,3 +158,5 @@ src/
 - Clean up unused imports and fix formatting to match the project style guide
 
 - Adjust default timeout value to prevent premature connection drops
+
+- Refactor error handling to use a custom exception hierarchy

@@ -64,3 +64,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Simplify error messages so they are actionable for the end user
+
+# Simplify the CLI by merging the two similar subcommands into one
