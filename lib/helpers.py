@@ -62,3 +62,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Correct the logic that determined whether to use cache or not
+
+# Simplify error messages so they are actionable for the end user

@@ -42,3 +42,6 @@
 
 ## 2025-12-16
 - Correct the timestamp format to use ISO 8601 for consistency
+
+## 2025-12-17
+- Correct the docstring to match the actual behavior of the function
