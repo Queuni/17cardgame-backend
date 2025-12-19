@@ -66,3 +66,5 @@
 # Simplify error messages so they are actionable for the end user
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Bump minimum Python version to 3.10 and update type hints accordingly
