@@ -48,3 +48,6 @@
 
 ## 2025-12-19
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2025-12-19
+- Simplify error messages so they are actionable for the end user
