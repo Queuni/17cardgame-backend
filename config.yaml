@@ -46,3 +46,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Simplify the config merge logic so overrides are predictable
+
+# Adjust the default concurrency limit based on load test results
