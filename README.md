@@ -160,3 +160,5 @@ src/
 - Adjust default timeout value to prevent premature connection drops
 
 - Refactor error handling to use a custom exception hierarchy
+
+- Remove obsolete workaround now that the upstream bug is fixed

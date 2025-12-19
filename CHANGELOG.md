@@ -45,3 +45,6 @@
 
 ## 2025-12-17
 - Correct the docstring to match the actual behavior of the function
+
+## 2025-12-19
+- Handle the duplicate key case by merging the values instead of failing
