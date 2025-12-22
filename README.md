@@ -164,3 +164,5 @@ src/
 - Remove obsolete workaround now that the upstream bug is fixed
 
 - Implement a simple health check endpoint for the load balancer
+
+- Simplify the main loop by extracting request handling into a dedicated function

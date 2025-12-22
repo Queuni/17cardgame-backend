@@ -54,3 +54,6 @@
 
 ## 2025-12-22
 - Bump the tool version and update the pre-commit hook config
+
+## 2025-12-22
+- Refactor error handling to use a custom exception hierarchy

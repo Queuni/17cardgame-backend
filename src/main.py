@@ -34,3 +34,5 @@
 # Refactor the data layer to separate read and write paths
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Support both YAML and JSON config formats for flexibility
