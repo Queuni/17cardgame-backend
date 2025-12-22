@@ -48,3 +48,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Bump version to 1.2.0 and add changelog entry for the new features
+
+# Correct the timestamp format to use ISO 8601 for consistency

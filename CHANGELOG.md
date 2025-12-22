@@ -51,3 +51,6 @@
 
 ## 2025-12-19
 - Simplify error messages so they are actionable for the end user
+
+## 2025-12-22
+- Bump the tool version and update the pre-commit hook config
