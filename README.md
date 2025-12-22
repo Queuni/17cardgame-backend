@@ -166,3 +166,5 @@ src/
 - Implement a simple health check endpoint for the load balancer
 
 - Simplify the main loop by extracting request handling into a dedicated function
+
+- Update the API docs with the new query parameters and examples

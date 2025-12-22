@@ -36,3 +36,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Support both YAML and JSON config formats for flexibility
+
+# Adjust the batch size to reduce memory usage on large inputs
