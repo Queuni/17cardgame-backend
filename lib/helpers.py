@@ -70,3 +70,5 @@
 # Bump minimum Python version to 3.10 and update type hints accordingly
 
 # Simplify the auth flow by using a single token source
+
+# Fix the encoding issue when reading config files with non-ASCII

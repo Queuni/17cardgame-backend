@@ -170,3 +170,5 @@ src/
 - Update the API docs with the new query parameters and examples
 
 - Improve the error recovery when the database connection is lost
+
+- Remove the experimental feature that didn't make it into the release
