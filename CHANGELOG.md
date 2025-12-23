@@ -60,3 +60,6 @@
 
 ## 2025-12-23
 - Add validation for the config schema before applying settings
+
+## 2025-12-23
+- Correct the formula used for calculating the backoff delay

@@ -168,3 +168,5 @@ src/
 - Simplify the main loop by extracting request handling into a dedicated function
 
 - Update the API docs with the new query parameters and examples
+
+- Improve the error recovery when the database connection is lost
