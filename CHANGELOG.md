@@ -57,3 +57,6 @@
 
 ## 2025-12-22
 - Refactor error handling to use a custom exception hierarchy
+
+## 2025-12-23
+- Add validation for the config schema before applying settings

@@ -38,3 +38,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Refactor the parser to use a proper state machine instead of regex
+
+# Handle connection reset by the peer without crashing the worker
