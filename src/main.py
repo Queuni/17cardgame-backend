@@ -40,3 +40,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Implement proper backoff with jitter for the retry logic
+
+# Fix the encoding issue when reading config files with non-ASCII

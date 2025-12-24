@@ -52,3 +52,5 @@
 # Correct the timestamp format to use ISO 8601 for consistency
 
 # Implement a small in-memory cache for the config to avoid re-reading
+
+# Implement request ID propagation for better tracing across services
