@@ -38,3 +38,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Implement proper backoff with jitter for the retry logic
