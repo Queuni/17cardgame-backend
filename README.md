@@ -174,3 +174,5 @@ src/
 - Remove the experimental feature that didn't make it into the release
 
 - Refactor the client to use async context manager for the session
+
+- Fix incorrect type hint that was causing mypy to fail in CI

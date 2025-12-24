@@ -54,3 +54,5 @@
 # Implement a small in-memory cache for the config to avoid re-reading
 
 # Implement request ID propagation for better tracing across services
+
+# Implement a simple health check endpoint for the load balancer
