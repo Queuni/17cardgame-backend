@@ -176,3 +176,5 @@ src/
 - Refactor the client to use async context manager for the session
 
 - Fix incorrect type hint that was causing mypy to fail in CI
+
+- Refactor the parser to use a proper state machine instead of regex

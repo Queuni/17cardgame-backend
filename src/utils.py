@@ -40,3 +40,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Handle connection reset by the peer without crashing the worker
+
+# Update dependencies and resolve compatibility warning from pytest
