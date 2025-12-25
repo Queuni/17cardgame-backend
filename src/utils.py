@@ -42,3 +42,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Implement proper backoff with jitter for the retry logic

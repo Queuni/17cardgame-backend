@@ -54,3 +54,5 @@
 # Refactor the parser to use a proper state machine instead of regex
 
 # Simplify the main loop by extracting request handling into a dedicated function
+
+# Implement request ID propagation for better tracing across services

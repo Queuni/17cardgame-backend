@@ -178,3 +178,5 @@ src/
 - Fix incorrect type hint that was causing mypy to fail in CI
 
 - Refactor the parser to use a proper state machine instead of regex
+
+- Refactor the data layer to separate read and write paths
