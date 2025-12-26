@@ -44,3 +44,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Fix issue where empty input was not validated before passing to the parser
