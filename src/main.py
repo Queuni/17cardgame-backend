@@ -42,3 +42,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Implement a simple metrics endpoint for Prometheus scraping
