@@ -69,3 +69,6 @@
 
 ## 2025-12-29
 - Improve the setup script to check for required tools before running
+
+## 2025-12-29
+- Implement proper cleanup of resources when the process receives SIGTERM
