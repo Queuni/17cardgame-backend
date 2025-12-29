@@ -63,3 +63,6 @@
 
 ## 2025-12-23
 - Correct the formula used for calculating the backoff delay
+
+## 2025-12-29
+- Bump the Docker base image to get the latest security patches
