@@ -56,3 +56,5 @@
 # Simplify the main loop by extracting request handling into a dedicated function
 
 # Implement request ID propagation for better tracing across services
+
+# Add integration tests for the new export endpoint

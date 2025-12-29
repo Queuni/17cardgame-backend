@@ -182,3 +182,5 @@ src/
 - Refactor the data layer to separate read and write paths
 
 - Update the changelog with the fixes included in this release
+
+- Simplify the CLI by merging the two similar subcommands into one
