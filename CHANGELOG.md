@@ -66,3 +66,6 @@
 
 ## 2025-12-29
 - Bump the Docker base image to get the latest security patches
+
+## 2025-12-29
+- Improve the setup script to check for required tools before running
