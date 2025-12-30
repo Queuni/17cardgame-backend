@@ -58,3 +58,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Add integration tests for the new export endpoint
+
+# Support config reload without restart via SIGHUP or file watch

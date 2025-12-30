@@ -48,3 +48,5 @@
 # Fix issue where empty input was not validated before passing to the parser
 
 # Add a note in the README about the breaking change in 2.0
+
+# Fix the encoding issue when reading config files with non-ASCII
