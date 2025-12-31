@@ -186,3 +186,5 @@ src/
 - Simplify the CLI by merging the two similar subcommands into one
 
 - Fix issue where empty input was not validated before passing to the parser
+
+- Handle the partial write case and retry the remaining bytes

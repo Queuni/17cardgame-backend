@@ -60,3 +60,5 @@
 # Add integration tests for the new export endpoint
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Correct the default path used when no config file is specified
