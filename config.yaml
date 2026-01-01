@@ -62,3 +62,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Correct the default path used when no config file is specified
+
+# Remove the unused parameter that was left from an old refactor
