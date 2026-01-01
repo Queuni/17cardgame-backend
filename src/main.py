@@ -50,3 +50,5 @@
 # Add a note in the README about the breaking change in 2.0
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Simplify the config validation by using a declarative schema

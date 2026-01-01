@@ -188,3 +188,5 @@ src/
 - Fix issue where empty input was not validated before passing to the parser
 
 - Handle the partial write case and retry the remaining bytes
+
+- Implement basic rate limiting to avoid overwhelming the downstream service
