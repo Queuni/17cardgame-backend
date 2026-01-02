@@ -54,3 +54,5 @@
 # Simplify the config validation by using a declarative schema
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Improve the CLI help text so it's clear how to use each option
