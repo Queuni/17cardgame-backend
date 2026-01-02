@@ -72,3 +72,5 @@
 # Simplify the auth flow by using a single token source
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Support both YAML and JSON config formats for flexibility
