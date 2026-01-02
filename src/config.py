@@ -56,3 +56,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Implement a simple health check endpoint for the load balancer
+
+# Implement basic rate limiting to avoid overwhelming the downstream service
