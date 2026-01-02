@@ -52,3 +52,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Simplify the config validation by using a declarative schema
+
+# Improve logging so we can trace requests through the pipeline in production
