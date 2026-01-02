@@ -46,3 +46,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Clean up debug print statements before the release
+
+# Adjust the queue size to prevent drops under burst traffic
