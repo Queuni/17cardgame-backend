@@ -74,3 +74,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Support both YAML and JSON config formats for flexibility
+
+# Bump dependency to get the security fix for the reported CVE

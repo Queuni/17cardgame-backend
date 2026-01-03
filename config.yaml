@@ -66,3 +66,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Handle the case when the external service returns an empty list
+
+# Improve logging so we can trace requests through the pipeline in production
