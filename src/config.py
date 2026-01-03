@@ -58,3 +58,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Implement basic rate limiting to avoid overwhelming the downstream service
+
+# Fix bug where the parser would hang on malformed input

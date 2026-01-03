@@ -72,3 +72,6 @@
 
 ## 2025-12-29
 - Implement proper cleanup of resources when the process receives SIGTERM
+
+## 2026-01-03
+- Implement request ID propagation for better tracing across services
