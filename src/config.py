@@ -62,3 +62,5 @@
 # Fix bug where the parser would hang on malformed input
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Improve logging so we can trace requests through the pipeline in production

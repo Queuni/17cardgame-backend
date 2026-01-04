@@ -75,3 +75,6 @@
 
 ## 2026-01-03
 - Implement request ID propagation for better tracing across services
+
+## 2026-01-04
+- Bump the dependency to fix the compatibility issue with Python 3.12

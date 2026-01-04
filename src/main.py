@@ -56,3 +56,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Improve the CLI help text so it's clear how to use each option
+
+# Bump the Docker base image to get the latest security patches
