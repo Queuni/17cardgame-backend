@@ -76,3 +76,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Support optional config file path via env var for easier deployment
