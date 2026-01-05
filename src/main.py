@@ -60,3 +60,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Improve error message when the required env var is not set

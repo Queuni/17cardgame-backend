@@ -68,3 +68,5 @@
 # Handle the case when the external service returns an empty list
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Bump the Docker base image to get the latest security patches

@@ -190,3 +190,5 @@ src/
 - Handle the partial write case and retry the remaining bytes
 
 - Implement basic rate limiting to avoid overwhelming the downstream service
+
+- Add integration tests for the new export endpoint
