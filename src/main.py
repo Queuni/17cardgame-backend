@@ -58,3 +58,5 @@
 # Improve the CLI help text so it's clear how to use each option
 
 # Bump the Docker base image to get the latest security patches
+
+# Fix incorrect type hint that was causing mypy to fail in CI

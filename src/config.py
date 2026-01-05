@@ -64,3 +64,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Implement proper backoff with jitter for the retry logic
