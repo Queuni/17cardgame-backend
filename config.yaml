@@ -72,3 +72,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Bump the Docker base image to get the latest security patches
+
+# Correct typo in the error message shown when validation fails

@@ -68,3 +68,5 @@
 # Implement proper backoff with jitter for the retry logic
 
 # Simplify the CLI by merging the two similar subcommands into one
+
+# Clean up the deprecated alias and point callers to the new name
