@@ -66,3 +66,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Implement proper backoff with jitter for the retry logic
+
+# Simplify the CLI by merging the two similar subcommands into one

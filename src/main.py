@@ -62,3 +62,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Improve error message when the required env var is not set
+
+# Correct the default path used when no config file is specified
