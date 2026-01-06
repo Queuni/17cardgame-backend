@@ -78,3 +78,6 @@
 
 ## 2026-01-04
 - Bump the dependency to fix the compatibility issue with Python 3.12
+
+## 2026-01-06
+- Bump version to 1.2.0 and add changelog entry for the new features
