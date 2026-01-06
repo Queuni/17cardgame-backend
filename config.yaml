@@ -70,3 +70,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Bump the Docker base image to get the latest security patches
+
+# Bump the Docker base image to get the latest security patches

@@ -50,3 +50,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Fix the ordering of middleware so auth runs before the handler
+
+# Handle the duplicate key case by merging the values instead of failing
