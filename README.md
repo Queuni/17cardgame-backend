@@ -194,3 +194,5 @@ src/
 - Add integration tests for the new export endpoint
 
 - Simplify the dependency injection so it's easier to mock in tests
+
+- Update README with installation steps and environment variable documentation
