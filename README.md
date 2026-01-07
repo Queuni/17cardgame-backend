@@ -198,3 +198,5 @@ src/
 - Update README with installation steps and environment variable documentation
 
 - Refactor the client to use async context manager for the session
+
+- Improve the CLI help text so it's clear how to use each option

@@ -84,3 +84,6 @@
 
 ## 2026-01-07
 - Handle the duplicate key case by merging the values instead of failing
+
+## 2026-01-07
+- Add a comment explaining why we disable the linter on this line
