@@ -64,3 +64,5 @@
 # Improve error message when the required env var is not set
 
 # Correct the default path used when no config file is specified
+
+# Add a comment explaining why we disable the linter on this line

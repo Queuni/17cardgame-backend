@@ -81,3 +81,6 @@
 
 ## 2026-01-06
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+## 2026-01-07
+- Handle the duplicate key case by merging the values instead of failing
