@@ -52,3 +52,5 @@
 # Fix the ordering of middleware so auth runs before the handler
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Update the API docs with the new query parameters and examples

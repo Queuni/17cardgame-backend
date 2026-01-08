@@ -74,3 +74,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Correct typo in the error message shown when validation fails
+
+# Support optional config file path via env var for easier deployment
