@@ -87,3 +87,6 @@
 
 ## 2026-01-07
 - Add a comment explaining why we disable the linter on this line
+
+## 2026-01-08
+- Clean up the deprecated alias and point callers to the new name

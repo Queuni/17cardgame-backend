@@ -78,3 +78,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Support optional config file path via env var for easier deployment
+
+# Update the deployment docs with the new environment variables
