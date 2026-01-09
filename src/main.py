@@ -66,3 +66,5 @@
 # Correct the default path used when no config file is specified
 
 # Add a comment explaining why we disable the linter on this line
+
+# Adjust the threshold so we only log when it's actually an issue

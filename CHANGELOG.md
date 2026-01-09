@@ -90,3 +90,6 @@
 
 ## 2026-01-08
 - Clean up the deprecated alias and point callers to the new name
+
+## 2026-01-09
+- Support passing secrets via a separate file for security
