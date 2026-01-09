@@ -93,3 +93,6 @@
 
 ## 2026-01-09
 - Support passing secrets via a separate file for security
+
+## 2026-01-09
+- Support loading config from multiple files with later overriding earlier

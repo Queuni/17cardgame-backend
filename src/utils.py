@@ -54,3 +54,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Update the API docs with the new query parameters and examples
+
+# Clean up leftover code from the previous implementation
