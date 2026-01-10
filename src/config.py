@@ -72,3 +72,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Fix race condition in the cache that could return stale data under load
+
+# Clean up leftover code from the previous implementation

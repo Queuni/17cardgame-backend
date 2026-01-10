@@ -96,3 +96,6 @@
 
 ## 2026-01-09
 - Support loading config from multiple files with later overriding earlier
+
+## 2026-01-10
+- Support passing options through the config file as well as CLI

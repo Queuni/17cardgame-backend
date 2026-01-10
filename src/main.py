@@ -68,3 +68,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Support passing options through the config file as well as CLI
