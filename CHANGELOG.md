@@ -99,3 +99,6 @@
 
 ## 2026-01-10
 - Support passing options through the config file as well as CLI
+
+## 2026-01-12
+- Update documentation to reflect the new API and usage examples
