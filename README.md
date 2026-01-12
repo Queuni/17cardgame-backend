@@ -200,3 +200,5 @@ src/
 - Refactor the client to use async context manager for the session
 
 - Improve the CLI help text so it's clear how to use each option
+
+- Correct the docstring to match the actual behavior of the function
