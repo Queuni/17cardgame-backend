@@ -202,3 +202,5 @@ src/
 - Improve the CLI help text so it's clear how to use each option
 
 - Correct the docstring to match the actual behavior of the function
+
+- Fix incorrect type hint that was causing mypy to fail in CI

@@ -80,3 +80,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Update the deployment docs with the new environment variables
+
+# Refactor the parser to use a proper state machine instead of regex
