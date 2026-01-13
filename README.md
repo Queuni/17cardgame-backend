@@ -204,3 +204,5 @@ src/
 - Correct the docstring to match the actual behavior of the function
 
 - Fix incorrect type hint that was causing mypy to fail in CI
+
+- Adjust the queue size to prevent drops under burst traffic

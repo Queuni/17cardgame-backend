@@ -70,3 +70,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Support passing options through the config file as well as CLI
+
+# Correct the logic that determined whether to use cache or not
