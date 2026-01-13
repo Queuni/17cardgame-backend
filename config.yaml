@@ -76,3 +76,5 @@
 # Correct typo in the error message shown when validation fails
 
 # Support optional config file path via env var for easier deployment
+
+# Handle the redirect response and follow it to get the final resource

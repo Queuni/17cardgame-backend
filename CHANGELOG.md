@@ -102,3 +102,6 @@
 
 ## 2026-01-12
 - Update documentation to reflect the new API and usage examples
+
+## 2026-01-13
+- Support environment-specific overrides via separate config files
