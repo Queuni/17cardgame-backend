@@ -105,3 +105,6 @@
 
 ## 2026-01-13
 - Support environment-specific overrides via separate config files
+
+## 2026-01-13
+- Handle missing optional field in the response without raising

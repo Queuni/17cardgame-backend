@@ -72,3 +72,5 @@
 # Support passing options through the config file as well as CLI
 
 # Correct the logic that determined whether to use cache or not
+
+# Simplify the dependency injection so it's easier to mock in tests
