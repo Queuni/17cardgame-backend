@@ -74,3 +74,5 @@
 # Correct the logic that determined whether to use cache or not
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Simplify the config merge logic so overrides are predictable

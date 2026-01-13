@@ -76,3 +76,5 @@
 # Clean up leftover code from the previous implementation
 
 # Implement a simple metrics endpoint for Prometheus scraping
+
+# Clean up the test fixtures and move shared data to a single file
