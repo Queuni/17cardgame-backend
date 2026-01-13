@@ -74,3 +74,5 @@
 # Fix race condition in the cache that could return stale data under load
 
 # Clean up leftover code from the previous implementation
+
+# Implement a simple metrics endpoint for Prometheus scraping
