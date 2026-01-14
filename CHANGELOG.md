@@ -108,3 +108,6 @@
 
 ## 2026-01-13
 - Handle missing optional field in the response without raising
+
+## 2026-01-14
+- Clean up unused imports and fix formatting to match the project style guide
